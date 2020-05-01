@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1577457322 source:c:\users\ahmed nabil\documents\codeblocks\projects\assignment-03.3\fcivector.cpp
+	"FCIvector.h"
+
+1577457382 c:\users\ahmed nabil\documents\codeblocks\projects\assignment-03.3\fcivector.h
+	<iostream>
+	<string>
+	<climits>
+	"IndexOutOfBounds.h"
+
+1577457322 c:\users\ahmed nabil\documents\codeblocks\projects\assignment-03.3\indexoutofbounds.h
+	<exception>
+
+1577457398 source:c:\users\ahmed nabil\documents\codeblocks\projects\assignment-03.3\main.cpp
+	<iostream>
+	<string>
+	"FCIvector.h"
+	"FCIvector.cpp"
+
+1577457322 c:\users\ahmed nabil\documents\codeblocks\projects\assignment-03.3\fcivector.cpp
+	"FCIvector.h"
+
+1577458353 source:c:\users\ahmed nabil\documents\codeblocks\projects\assignment-03.3\student.cpp
+	"Student.h"
+
+1577458396 c:\users\ahmed nabil\documents\codeblocks\projects\assignment-03.3\student.h
+	<iostream>
+	<string>
+	"FCIvector.h"
+	"Course.h"
+
+1577458353 c:\users\ahmed nabil\documents\codeblocks\projects\assignment-03.3\course.h
+	<iostream>
+	<string>
+
+1577458271 c:\users\ahmed nabil\documents\codeblocks\projects\assignment-03.3\course.cpp
+	"Course.h"
+
+1577458353 source:c:\users\ahmed nabil\documents\codeblocks\projects\assignment-03.3\course.cpp
+	"Course.h"
+
